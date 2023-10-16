@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-### :fire: My Stats :
+
+  ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diggspapu&theme=dark&background=000000)](https://git.io/streak-stats)
 
