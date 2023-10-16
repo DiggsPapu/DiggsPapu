@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
- ### Hi there 👋
+ # Hi there 👋
 
 I'm Diego Alonzo 3rd year student in UVG's career of TIC.
   
-### :fire: My Stats :
+## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diggspapu&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![DiggsPapu's GitHub stats](https://github-readme-stats.vercel.app/api?username=diggspapu&show_icons=true&theme=radical)
 
-### ⚡ My Trophies :
+## ⚡ My Trophies :
 [![trophy](https://github-profile-trophy.vercel.app/?username=diggspapu)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
