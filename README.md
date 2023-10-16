@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### :fire: My Stats :
+<h1 align="center">### :fire: My Stats :</h1>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diggspapu&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![DiggsPapu's GitHub stats](https://github-readme-stats.vercel.app/api?username=diggspapu&show_icons=true&theme=radical)
