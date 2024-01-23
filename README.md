@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
  # Hi there 👋
 
-I'm Diego Alonzo 3rd year student in UVG's career of TIC.
+I'm Diego Alonzo 4th year student in UVG's career of TIC.
   
 ## :fire: My Stats :
 
