@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
  # Hi there 👋
 
-I'm Diego Alonzo 4th year student in UVG's career of TIC.
+I'm Diego Alonzo 4th year student in UVG's career of TIC. I don't like really Windows but I have not enough memory 4 dualboot so it is what it is.
   
 ## :fire: My Stats :
 
