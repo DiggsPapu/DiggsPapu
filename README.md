@@ -25,6 +25,7 @@ I'm Diego Alonzo 4th year student in UVG's career of TIC. I don't like really Wi
 ![DiggsPapu's GitHub stats](https://github-readme-stats.vercel.app/api?username=diggspapu&show_icons=true&theme=radical)
 ![DiggsPapu's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=diggspapu&show_icons=true&locale=en&layout=compact)
 ## 🧔Visitor Counts:
+![Visitor Count](https://komarev.com/ghpvc/?username=DiggsPapu)
 ## ⚡ My Trophies :
 [![trophy](https://github-profile-trophy.vercel.app/?username=diggspapu&theme=onedark)]
 </div>
