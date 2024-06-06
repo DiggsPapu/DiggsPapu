@@ -24,6 +24,7 @@ I'm Diego Alonzo 4th year student in UVG's career of TIC. I don't like really Wi
 
 ![DiggsPapu's GitHub stats](https://github-readme-stats.vercel.app/api?username=diggspapu&show_icons=true&theme=radical)
 ![DiggsPapu's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=diggspapu&show_icons=true&locale=en&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diggspapu)](https://github.com/anuraghazra/github-readme-stats)
 ## ⚡ My Trophies :
 [![trophy](https://github-profile-trophy.vercel.app/?username=diggspapu&theme=onedark)]
 </div>
