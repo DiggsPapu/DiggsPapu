@@ -23,7 +23,7 @@ I'm Diego Alonzo 4th year student in UVG's career of TIC. I don't like really Wi
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diggspapu&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=diggspapu)
 ![DiggsPapu's GitHub stats](https://github-readme-stats.vercel.app/api?username=diggspapu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![DiggsPapu's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=diggspapu&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diggspapu&show_icons=true&locale=en&layout=compact)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diggspapu)](https://github.com/diggspapu/github-readme-stats)
 ## ⚡ My Trophies :
 [![trophy](https://github-profile-trophy.vercel.app/?username=diggspapu&theme=onedark)]
